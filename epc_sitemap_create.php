@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: altorg.ru sitemap functions
+Plugin Name: epc_sitemap_create
 Description: Contains sitemap create functions
-Version: 1.0.0
+Version: 1.0.1
 Author: alexepc
 Author URI: altorg.ru
 */
